@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760339095903",
+    "project_id": "challengr-2bc7a",
+    "storage_bucket": "challengr-2bc7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760339095903:android:cefcaf1275e780545316ea",
+        "android_client_info": {
+          "package_name": "com.example.challengr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJyWZF9UdPk00OmAUoK1-Gcj219vFxIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
